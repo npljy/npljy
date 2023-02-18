@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### ![visitors](https://visitor-badge.glitch.me/badge?page_id=npljy.npljy)
+  [![npljy's github stats](https://github-readme-stats.vercel.app/api?username=npljy)](https://github.com/npljy)
 
 <div style="display: flex">
   <div>
@@ -9,7 +10,6 @@
 
     [Email:niepeng@88.com](mailto:niepeng@88.com)
   <div>
-  [![npljy's github stats](https://github-readme-stats.vercel.app/api?username=npljy)](https://github.com/npljy)
 </div>
 
 <!--
